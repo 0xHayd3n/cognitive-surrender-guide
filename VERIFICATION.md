@@ -21,7 +21,7 @@ python scripts/validate_repository.py
 
 The validator checks UTF-8 text, required modules/files, strict JSON, all-author citation consistency, local Markdown links/anchors, source identifiers, claim scope/caveats, numeric PDF page bounds, optional result identifiers/values/intervals/denominators, and version consistency. No PDF or raw source extraction is included.
 
-Local check passed: **24 files, 8 modules, 89 local links, 14 claims, 8 result records, 25 numeric values**. Citation YAML parsed and included both preferred-citation authors.
+Local check passed: **24 files, 8 modules, 89 local links, 14 claims, 8 result records, 25 numeric values**. Citation YAML parsed, included both preferred-citation authors, and passed the official Citation File Format schema.
 
 ## Publication checks
 
@@ -29,7 +29,7 @@ Local check passed: **24 files, 8 modules, 89 local links, 14 claims, 8 result r
 - GitHub API confirmed `visibility=public`, `private=false`, the intended description, and `main` default branch.
 - Anonymous HTTP requests returned 200 for the repository and raw README.
 - The published initial commit `149932c22db046c811e7fbee1c0c6ea000f7c554` matched all 24 local file blobs by path and Git object hash.
-- The public OSF PDF and arXiv sources for the separately maintained companion returned HTTP 200. Direct SSRN record access returned 403, while its DOI metadata was verified through Crossref.
+- The public OSF PDF returned HTTP 200. Direct SSRN record access returned 403, while its DOI metadata was verified through Crossref.
 
 This verification note was then added to the published guide; subsequent edits should rerun the checks. Public access does not resolve the supplementary project's authorization requirement.
 
