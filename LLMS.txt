@@ -1,0 +1,21 @@
+# Cognitive Surrender Guide
+
+Unofficial companion to Steven D. Shaw and Gideon Nave, Thinking—Fast, Slow, and Artificial, attached v20260111 (58 PDF pages).
+
+- [Overview](README.md)
+- [Agent rules](AGENTS.md)
+- [Theory](docs/01-theory-and-context.md)
+- [Design and analysis](docs/02-design-and-analysis.md)
+- [Study 1](docs/03-study-1.md)
+- [Study 2](docs/04-study-2.md)
+- [Study 3](docs/05-study-3.md)
+- [Synthesis and reporting audit](docs/06-synthesis-and-evidence.md)
+- [Limits and discussion](docs/07-limits-and-discussion.md)
+- [Full source map and missing supplements](docs/08-source-map.md)
+- [Paper metadata](metadata/paper.json)
+- [Sources](metadata/sources.json)
+- [Claims](metadata/claims.json)
+- [Reported measurements](metadata/results.json)
+- [Citations](references/paper.bib)
+
+Separate theory from experiment; availability from consultation; odds from probabilities. Missing Web Appendices A–D prevent full supplement/registration audit. No replication was performed.

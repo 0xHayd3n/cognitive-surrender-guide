@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "For the research, cite the preferred paper by Shaw and Nave. This repository is an unofficial reading companion."
+title: "Cognitive Surrender Guide"
+type: dataset
+authors:
+  - name: "0xHayd3n"
+repository-code: "https://github.com/0xHayd3n/cognitive-surrender-guide"
+license: CC-BY-4.0
+date-released: 2026-10-20
+preferred-citation:
+  type: report
+  title: "Thinking—Fast, Slow, and Artificial: How AI is Reshaping Human Reasoning and the Rise of Cognitive Surrender"
+  authors:
+    - given-names: "Steven D."
+      family-names: "Shaw"
+    - given-names: "Gideon"
+      family-names: "Nave"
+  year: 2026
+  version: "v20260111"
+  doi: "10.2139/ssrn.6097646"
+  url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646"
+  institution:
+    name: "The Wharton School of the University of Pennsylvania"

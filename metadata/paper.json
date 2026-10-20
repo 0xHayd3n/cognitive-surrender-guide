@@ -1,0 +1,106 @@
+{
+  "schema_version": "1.0.0",
+  "title": "Thinking—Fast, Slow, and Artificial: How AI is Reshaping Human Reasoning and the Rise of Cognitive Surrender",
+  "authors": [
+    {
+      "given": "Steven D.",
+      "family": "Shaw",
+      "name": "Steven D. Shaw"
+    },
+    {
+      "given": "Gideon",
+      "family": "Nave",
+      "name": "Gideon Nave"
+    }
+  ],
+  "year": 2026,
+  "version": "v20260111",
+  "source_type": "working paper with behavioral experiments and proposed theory",
+  "page_count": 58,
+  "ssrn": {
+    "id": "6097646",
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646"
+  },
+  "doi": "10.2139/ssrn.6097646",
+  "license": {
+    "spdx": null,
+    "status": "Source reuse license not established; no source redistribution."
+  },
+  "verified_at": "2026-10-20",
+  "coverage": {
+    "attached_pages_read": [
+      1,
+      58
+    ],
+    "references_pages": [
+      51,
+      58
+    ],
+    "embedded_appendices": false,
+    "referenced_external_appendices": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "external_appendices_inspected": false,
+    "referenced_web_tables": [
+      "W1",
+      "W2",
+      "W3"
+    ]
+  },
+  "provenance": {
+    "source_kind": "actual user-supplied PDF read through Library",
+    "attachment_filename": "ssrn-6097646.pdf",
+    "size_bytes": 1912650,
+    "sha256": null,
+    "hash_status": "No local binary hash established",
+    "source_substituted": false,
+    "binary_materialization_status": "Library helper downloaded but failed Windows os.setxattr; no installed PDF retained",
+    "figure_access": "Exact attachment text/captions via Library; auxiliary official OSF v1 PDF Tables1-2 and Figures1-10 visually inspected.",
+    "full_text_read": true,
+    "pdf_redistributed": false,
+    "full_text_redistributed": false,
+    "original_figures_redistributed": false,
+    "auxiliary_public_pdf": {
+      "url": "https://osf.io/download/9gxaq/",
+      "sha256": "6d7b00690f4aa5bbf9b4db8b2e3e9aa6585ba40977ad9e554393d88ee313f90d",
+      "size_bytes": 1891090,
+      "match_basis": [
+        "title",
+        "author order",
+        "v20260111 cover marker",
+        "58 pages",
+        "reference endpoint"
+      ],
+      "attachment_binary_equality_verified": false,
+      "use": "auxiliary visual inspection and corresponding public page navigation; attached text remains primary"
+    }
+  },
+  "reporting_issues": [
+    "Pooled N=1372 differs from 359+485+450+81=1375; missing supplement prevents reconciliation.",
+    "Reported9593 trials differs from1372*7=9604; no fabricated missing-trial explanation.",
+    "Study1 narrative h=.81; synthesis S1 h=.83.",
+    "Figure10 caption BrainOnly Inc+Fd count212 versus methods intervention assignment238; analysis-set distinction unresolved."
+  ],
+  "companion": {
+    "repository_name": "cognitive-surrender-guide",
+    "maintainer": "0xHayd3n",
+    "ai_assistance": true,
+    "experiments_run": false,
+    "implementation_reproduced": false,
+    "statistics_reproduced": false,
+    "original_material_license_spdx": "CC-BY-4.0"
+  },
+  "official_osf": {
+    "record_url": "https://osf.io/preprints/psyarxiv/yk25n_v1/",
+    "pdf_url": "https://osf.io/download/9gxaq/",
+    "materials_preregistration_url": "https://osf.io/n84tx",
+    "published_at": "2026-01-12",
+    "original_publication_date": "2026-01-11",
+    "license_spdx": "CC0-1.0",
+    "license_scope": "Separate OSF preprint record; not asserted for SSRN attachment",
+    "materials_access": "401 Unauthorized from official API and file-list requests"
+  }
+}

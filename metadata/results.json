@@ -1,0 +1,343 @@
+{
+  "schema_version": "1.0.0",
+  "paper_version": "v20260111",
+  "unit_note": "Accuracy and following values use percentage scale;confidence uses0-100;OR is odds ratio. CIs are95%.",
+  "results": [
+    {
+      "id": "R01",
+      "study": "Study1",
+      "metric": "accuracy_percent",
+      "values": [
+        {
+          "condition": "BrainOnly",
+          "value": 45.8,
+          "ci95": [
+            42.5,
+            49.2
+          ]
+        },
+        {
+          "condition": "AIAccurate",
+          "value": 71.0,
+          "ci95": [
+            67.9,
+            74.1
+          ]
+        },
+        {
+          "condition": "AIFaulty",
+          "value": 31.5,
+          "ci95": [
+            28.3,
+            34.6
+          ]
+        }
+      ],
+      "denominator": "Main lab N359;BrainOnly121/AIavailable238;AIavailable trial types include nonuse",
+      "sources": [
+        {
+          "source_id": "attachment",
+          "page": 23
+        },
+        {
+          "source_id": "attachment",
+          "page": 24
+        }
+      ],
+      "caveats": "No exact trial cell Ns reconstructed.",
+      "origin": "author-reported",
+      "reproduced": false
+    },
+    {
+      "id": "R02",
+      "study": "Study1",
+      "metric": "follow_percent",
+      "values": [
+        {
+          "condition": "accurate consulted",
+          "value": 92.7,
+          "ci95": [
+            90.2,
+            95.0
+          ]
+        },
+        {
+          "condition": "faulty consulted",
+          "value": 79.8,
+          "ci95": [
+            75.9,
+            83.4
+          ]
+        }
+      ],
+      "denominator": "Consulted trials within main AIavailable group",
+      "sources": [
+        {
+          "source_id": "attachment",
+          "page": 22
+        }
+      ],
+      "caveats": "Not all trials or all people.",
+      "origin": "author-reported",
+      "reproduced": false
+    },
+    {
+      "id": "R03",
+      "study": "Study1",
+      "metric": "global_confidence",
+      "values": [
+        {
+          "condition": "AIaccess",
+          "value": 77.0,
+          "ci95": [
+            74.4,
+            79.6
+          ]
+        },
+        {
+          "condition": "BrainOnly",
+          "value": 65.3,
+          "ci95": [
+            61.0,
+            69.6
+          ]
+        }
+      ],
+      "denominator": "Post-task participant global rating",
+      "sources": [
+        {
+          "source_id": "attachment",
+          "page": 25
+        }
+      ],
+      "caveats": "Not item-level confidence.",
+      "origin": "author-reported",
+      "reproduced": false
+    },
+    {
+      "id": "R04",
+      "study": "Study2",
+      "metric": "accuracy_percent",
+      "values": [
+        {
+          "condition": "probe timed",
+          "value": 32.6,
+          "ci95": [
+            26.5,
+            38.8
+          ]
+        },
+        {
+          "condition": "probe control",
+          "value": 46.9,
+          "ci95": [
+            40.7,
+            53.1
+          ]
+        },
+        {
+          "condition": "AIavailable timed",
+          "value": 38.9,
+          "ci95": [
+            36.3,
+            41.5
+          ]
+        },
+        {
+          "condition": "AIavailable control",
+          "value": 51.9,
+          "ci95": [
+            49.3,
+            54.5
+          ]
+        }
+      ],
+      "denominator": "N485;timed228/control257;one probe each",
+      "sources": [
+        {
+          "source_id": "attachment",
+          "page": 28
+        },
+        {
+          "source_id": "attachment",
+          "page": 29
+        }
+      ],
+      "caveats": "Timeouts count incorrect;accuracy interaction p=.937.",
+      "origin": "author-reported",
+      "reproduced": false
+    },
+    {
+      "id": "R05",
+      "study": "Study3",
+      "metric": "faulty_advice_override_percent",
+      "values": [
+        {
+          "condition": "bundle",
+          "value": 42.3,
+          "ci95": [
+            37.4,
+            47.2
+          ]
+        },
+        {
+          "condition": "control",
+          "value": 20.0,
+          "ci95": [
+            16.1,
+            23.9
+          ]
+        }
+      ],
+      "denominator": "Consulted faulty trials;assigned bundle238/control212",
+      "sources": [
+        {
+          "source_id": "attachment",
+          "page": 34
+        }
+      ],
+      "caveats": "Cannot separate incentive and feedback effects.",
+      "origin": "author-reported",
+      "reproduced": false
+    },
+    {
+      "id": "R06",
+      "study": "Study3",
+      "metric": "AIavailable_accuracy_percent",
+      "values": [
+        {
+          "condition": "bundle",
+          "value": 63.3,
+          "ci95": [
+            60.6,
+            66.0
+          ]
+        },
+        {
+          "condition": "control",
+          "value": 49.6,
+          "ci95": [
+            47.1,
+            52.1
+          ]
+        },
+        {
+          "condition": "accurate bundle",
+          "value": 81.0,
+          "ci95": [
+            77.9,
+            84.1
+          ]
+        },
+        {
+          "condition": "accurate control",
+          "value": 68.5,
+          "ci95": [
+            65.2,
+            71.8
+          ]
+        },
+        {
+          "condition": "faulty bundle",
+          "value": 45.5,
+          "ci95": [
+            41.6,
+            49.4
+          ]
+        },
+        {
+          "condition": "faulty control",
+          "value": 30.7,
+          "ci95": [
+            27.4,
+            34.0
+          ]
+        }
+      ],
+      "denominator": "All AIavailable trials;N450",
+      "sources": [
+        {
+          "source_id": "attachment",
+          "page": 36
+        }
+      ],
+      "caveats": "Includes nonuse;full accuracy interaction p=.609.",
+      "origin": "author-reported",
+      "reproduced": false
+    },
+    {
+      "id": "R07",
+      "study": "Pooled",
+      "metric": "accurate_vs_faulty_OR",
+      "values": [
+        {
+          "condition": "overall",
+          "value": 16.07,
+          "ci95": [
+            11.5,
+            22.46
+          ]
+        },
+        {
+          "condition": "pressure",
+          "value": 14.28,
+          "ci95": [
+            8.51,
+            23.98
+          ]
+        },
+        {
+          "condition": "bundle",
+          "value": 11.05,
+          "ci95": [
+            6.48,
+            18.83
+          ]
+        }
+      ],
+      "denominator": "Reported N1372,trials9593;ancillary online sample included",
+      "sources": [
+        {
+          "source_id": "attachment",
+          "page": 41
+        },
+        {
+          "source_id": "attachment",
+          "page": 42
+        }
+      ],
+      "caveats": "Unresolved count reconciliation;OR not probability ratio.",
+      "origin": "author-reported",
+      "reproduced": false
+    },
+    {
+      "id": "R08",
+      "study": "Pooled",
+      "metric": "faulty_consulted_outcome_percent",
+      "values": [
+        {
+          "condition": "surrender",
+          "value": 73.2
+        },
+        {
+          "condition": "successful override/offloading",
+          "value": 19.7
+        },
+        {
+          "condition": "failed override",
+          "value": 7.1
+        }
+      ],
+      "denominator": "Consulted faulty-AI trials only",
+      "sources": [
+        {
+          "source_id": "attachment",
+          "page": 44
+        }
+      ],
+      "caveats": "CIs absent for these descriptive shares;operational classification not direct mental-state observation.",
+      "origin": "author-reported",
+      "reproduced": false
+    }
+  ]
+}

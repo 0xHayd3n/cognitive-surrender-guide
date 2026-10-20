@@ -1,0 +1,348 @@
+{
+  "schema_version": "1.0.0",
+  "paper_version": "v20260111",
+  "claims": [
+    {
+      "id": "C01",
+      "text": "Tri-System Theory proposes external, automated, data-driven, dynamic System3.",
+      "kind": "theoretical_proposal",
+      "scope": "Conceptual cognitive framework",
+      "caveats": "Behavioral responses do not directly establish a discrete mental or neural system.",
+      "sources": [
+        {
+          "source_id": "attachment",
+          "page": 10,
+          "url": "https://osf.io/download/9gxaq/#page=10",
+          "url_role": "Corresponding auxiliary public v1 page; factual content checked in exact attachment."
+        },
+        {
+          "source_id": "attachment",
+          "page": 11,
+          "url": "https://osf.io/download/9gxaq/#page=11",
+          "url_role": "Corresponding auxiliary public v1 page; factual content checked in exact attachment."
+        },
+        {
+          "source_id": "attachment",
+          "page": 14,
+          "url": "https://osf.io/download/9gxaq/#page=14",
+          "url_role": "Corresponding auxiliary public v1 page; factual content checked in exact attachment."
+        },
+        {
+          "source_id": "attachment",
+          "page": 16,
+          "url": "https://osf.io/download/9gxaq/#page=16",
+          "url_role": "Corresponding auxiliary public v1 page; factual content checked in exact attachment."
+        }
+      ]
+    },
+    {
+      "id": "C02",
+      "text": "Optional GPT-4o advice quality is manipulated by hidden prompts.",
+      "kind": "reported_method",
+      "scope": "Seven-item reasoning task across the three studies",
+      "caveats": "Not a natural model error rate or weight-training experiment; exact prompts are in unavailable W3.",
+      "sources": [
+        {
+          "source_id": "attachment",
+          "page": 18,
+          "url": "https://osf.io/download/9gxaq/#page=18",
+          "url_role": "Corresponding auxiliary public v1 page; factual content checked in exact attachment."
+        },
+        {
+          "source_id": "attachment",
+          "page": 19,
+          "url": "https://osf.io/download/9gxaq/#page=19",
+          "url_role": "Corresponding auxiliary public v1 page; factual content checked in exact attachment."
+        },
+        {
+          "source_id": "attachment",
+          "page": 20,
+          "url": "https://osf.io/download/9gxaq/#page=20",
+          "url_role": "Corresponding auxiliary public v1 page; factual content checked in exact attachment."
+        }
+      ]
+    },
+    {
+      "id": "C03",
+      "text": "Study1 accuracy is71.0% on accurate-AI and31.5% on faulty-AI versus45.8% BrainOnly.",
+      "kind": "reported_result",
+      "scope": "Main lab N359; available-trial denominators",
+      "caveats": "Includes nonconsultation; separate ancillary N81 not in these main results.",
+      "sources": [
+        {
+          "source_id": "attachment",
+          "page": 21,
+          "url": "https://osf.io/download/9gxaq/#page=21",
+          "url_role": "Corresponding auxiliary public v1 page; factual content checked in exact attachment."
+        },
+        {
+          "source_id": "attachment",
+          "page": 22,
+          "url": "https://osf.io/download/9gxaq/#page=22",
+          "url_role": "Corresponding auxiliary public v1 page; factual content checked in exact attachment."
+        },
+        {
+          "source_id": "attachment",
+          "page": 23,
+          "url": "https://osf.io/download/9gxaq/#page=23",
+          "url_role": "Corresponding auxiliary public v1 page; factual content checked in exact attachment."
+        },
+        {
+          "source_id": "attachment",
+          "page": 24,
+          "url": "https://osf.io/download/9gxaq/#page=24",
+          "url_role": "Corresponding auxiliary public v1 page; factual content checked in exact attachment."
+        }
+      ]
+    },
+    {
+      "id": "C04",
+      "text": "Study1 participants follow faulty advice on79.8% of consulted faulty trials.",
+      "kind": "reported_result",
+      "scope": "Conditional on actual consultation",
+      "caveats": "Not all participants/trials; following does not prove no thought.",
+      "sources": [
+        {
+          "source_id": "attachment",
+          "page": 22,
+          "url": "https://osf.io/download/9gxaq/#page=22",
+          "url_role": "Corresponding auxiliary public v1 page; factual content checked in exact attachment."
+        }
+      ]
+    },
+    {
+      "id": "C05",
+      "text": "Study1 AI access raises global confidence from65.3 to77.0.",
+      "kind": "reported_result",
+      "scope": "Post-task global rating, randomized access",
+      "caveats": "Not trial-specific confidence; faulty-trial-count slope nonsignificant.",
+      "sources": [
+        {
+          "source_id": "attachment",
+          "page": 25,
+          "url": "https://osf.io/download/9gxaq/#page=25",
+          "url_role": "Corresponding auxiliary public v1 page; factual content checked in exact attachment."
+        }
+      ]
+    },
+    {
+      "id": "C06",
+      "text": "Study2 pressure lowers accuracy while correct/faulty advice divergence persists.",
+      "kind": "reported_result",
+      "scope": "N485;30-second deadline; single no-AI probe",
+      "caveats": "Full accuracy interaction p=.937; conditional-follow interaction p=.102; profiles are selected.",
+      "sources": [
+        {
+          "source_id": "attachment",
+          "page": 28,
+          "url": "https://osf.io/download/9gxaq/#page=28",
+          "url_role": "Corresponding auxiliary public v1 page; factual content checked in exact attachment."
+        },
+        {
+          "source_id": "attachment",
+          "page": 29,
+          "url": "https://osf.io/download/9gxaq/#page=29",
+          "url_role": "Corresponding auxiliary public v1 page; factual content checked in exact attachment."
+        },
+        {
+          "source_id": "attachment",
+          "page": 30,
+          "url": "https://osf.io/download/9gxaq/#page=30",
+          "url_role": "Corresponding auxiliary public v1 page; factual content checked in exact attachment."
+        },
+        {
+          "source_id": "attachment",
+          "page": 31,
+          "url": "https://osf.io/download/9gxaq/#page=31",
+          "url_role": "Corresponding auxiliary public v1 page; factual content checked in exact attachment."
+        }
+      ]
+    },
+    {
+      "id": "C07",
+      "text": "Study3 bundle improves faulty-advice override and overall accuracy.",
+      "kind": "reported_result",
+      "scope": "N450; combined incentives and item feedback",
+      "caveats": "Cannot separate components; adoption interaction differs from null full accuracy interaction p=.609.",
+      "sources": [
+        {
+          "source_id": "attachment",
+          "page": 33,
+          "url": "https://osf.io/download/9gxaq/#page=33",
+          "url_role": "Corresponding auxiliary public v1 page; factual content checked in exact attachment."
+        },
+        {
+          "source_id": "attachment",
+          "page": 34,
+          "url": "https://osf.io/download/9gxaq/#page=34",
+          "url_role": "Corresponding auxiliary public v1 page; factual content checked in exact attachment."
+        },
+        {
+          "source_id": "attachment",
+          "page": 35,
+          "url": "https://osf.io/download/9gxaq/#page=35",
+          "url_role": "Corresponding auxiliary public v1 page; factual content checked in exact attachment."
+        },
+        {
+          "source_id": "attachment",
+          "page": 36,
+          "url": "https://osf.io/download/9gxaq/#page=36",
+          "url_role": "Corresponding auxiliary public v1 page; factual content checked in exact attachment."
+        }
+      ]
+    },
+    {
+      "id": "C08",
+      "text": "Study3 confidence is elevated on AI-available trials and retains some association with correctness.",
+      "kind": "reported_result",
+      "scope": "Per-item ratings before feedback",
+      "caveats": "Advice-quality confidence difference p=.682; comparison to an in-session no-AI probe.",
+      "sources": [
+        {
+          "source_id": "attachment",
+          "page": 37,
+          "url": "https://osf.io/download/9gxaq/#page=37",
+          "url_role": "Corresponding auxiliary public v1 page; factual content checked in exact attachment."
+        },
+        {
+          "source_id": "attachment",
+          "page": 38,
+          "url": "https://osf.io/download/9gxaq/#page=38",
+          "url_role": "Corresponding auxiliary public v1 page; factual content checked in exact attachment."
+        }
+      ]
+    },
+    {
+      "id": "C09",
+      "text": "Pooled synthesis reports OR16.07 accurate-versus-faulty odds contrast.",
+      "kind": "reported_result",
+      "scope": "Author-reported N1372 and9593 trials including ancillary online sample",
+      "caveats": "Within-paper synthesis; unresolved participant/trial count reconciliation; not16x probability.",
+      "sources": [
+        {
+          "source_id": "attachment",
+          "page": 41,
+          "url": "https://osf.io/download/9gxaq/#page=41",
+          "url_role": "Corresponding auxiliary public v1 page; factual content checked in exact attachment."
+        },
+        {
+          "source_id": "attachment",
+          "page": 42,
+          "url": "https://osf.io/download/9gxaq/#page=42",
+          "url_role": "Corresponding auxiliary public v1 page; factual content checked in exact attachment."
+        }
+      ]
+    },
+    {
+      "id": "C10",
+      "text": "73.2% of consulted faulty trials are classified surrender,19.7% successful offloading,7.1% failed override.",
+      "kind": "reported_result",
+      "scope": "Pooled consulted faulty-AI trials only",
+      "caveats": "Outcome-based operational categories do not directly measure subjective control.",
+      "sources": [
+        {
+          "source_id": "attachment",
+          "page": 44,
+          "url": "https://osf.io/download/9gxaq/#page=44",
+          "url_role": "Corresponding auxiliary public v1 page; factual content checked in exact attachment."
+        }
+      ]
+    },
+    {
+      "id": "C11",
+      "text": "Trust,NFC,and fluid intelligence moderate pooled response divergence.",
+      "kind": "reported_association",
+      "scope": "Measured standardized traits",
+      "caveats": "Correlational; within-study results not uniformly significant.",
+      "sources": [
+        {
+          "source_id": "attachment",
+          "page": 44,
+          "url": "https://osf.io/download/9gxaq/#page=44",
+          "url_role": "Corresponding auxiliary public v1 page; factual content checked in exact attachment."
+        }
+      ]
+    },
+    {
+      "id": "C12",
+      "text": "Uncertainty interfaces and digital literacy may support calibrated collaboration.",
+      "kind": "authors_recommendation",
+      "scope": "Design/policy implications",
+      "caveats": "Not interventions tested in these experiments.",
+      "sources": [
+        {
+          "source_id": "attachment",
+          "page": 47,
+          "url": "https://osf.io/download/9gxaq/#page=47",
+          "url_role": "Corresponding auxiliary public v1 page; factual content checked in exact attachment."
+        },
+        {
+          "source_id": "attachment",
+          "page": 48,
+          "url": "https://osf.io/download/9gxaq/#page=48",
+          "url_role": "Corresponding auxiliary public v1 page; factual content checked in exact attachment."
+        }
+      ]
+    },
+    {
+      "id": "C13",
+      "text": "The manuscript calls for wider tasks,field studies,and repeated-use designs.",
+      "kind": "authors_limitation",
+      "scope": "Authors stated limits",
+      "caveats": "No demonstrated longitudinal deskilling or general effect in every domain.",
+      "sources": [
+        {
+          "source_id": "attachment",
+          "page": 48,
+          "url": "https://osf.io/download/9gxaq/#page=48",
+          "url_role": "Corresponding auxiliary public v1 page; factual content checked in exact attachment."
+        },
+        {
+          "source_id": "attachment",
+          "page": 49,
+          "url": "https://osf.io/download/9gxaq/#page=49",
+          "url_role": "Corresponding auxiliary public v1 page; factual content checked in exact attachment."
+        }
+      ]
+    },
+    {
+      "id": "C14",
+      "text": "Web Appendices A-D and W1-W3 are referenced but absent from supplied58 pages.",
+      "kind": "source_coverage",
+      "scope": "Exact attachment coverage",
+      "caveats": "Do not claim supplement contents or preregistrations independently verified.",
+      "sources": [
+        {
+          "source_id": "attachment",
+          "page": 9,
+          "url": "https://osf.io/download/9gxaq/#page=9",
+          "url_role": "Corresponding auxiliary public v1 page; factual content checked in exact attachment."
+        },
+        {
+          "source_id": "attachment",
+          "page": 13,
+          "url": "https://osf.io/download/9gxaq/#page=13",
+          "url_role": "Corresponding auxiliary public v1 page; factual content checked in exact attachment."
+        },
+        {
+          "source_id": "attachment",
+          "page": 19,
+          "url": "https://osf.io/download/9gxaq/#page=19",
+          "url_role": "Corresponding auxiliary public v1 page; factual content checked in exact attachment."
+        },
+        {
+          "source_id": "attachment",
+          "page": 21,
+          "url": "https://osf.io/download/9gxaq/#page=21",
+          "url_role": "Corresponding auxiliary public v1 page; factual content checked in exact attachment."
+        },
+        {
+          "source_id": "attachment",
+          "page": 58,
+          "url": "https://osf.io/download/9gxaq/#page=58",
+          "url_role": "Corresponding auxiliary public v1 page; factual content checked in exact attachment."
+        }
+      ]
+    }
+  ]
+}

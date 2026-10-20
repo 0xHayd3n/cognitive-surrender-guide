@@ -1,0 +1,62 @@
+{
+  "schema_version": "1.0.0",
+  "sources": [
+    {
+      "id": "attachment",
+      "kind": "primary attached manuscript",
+      "title": "Thinking—Fast, Slow, and Artificial: How AI is Reshaping Human Reasoning and the Rise of Cognitive Surrender",
+      "version": "v20260111",
+      "pages": 58,
+      "access": "Complete Library text, table text and captions; figure pixels unavailable",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646",
+      "url_role": "Public bibliographic record; not a frozen attachment download",
+      "verified_at": "2026-10-20"
+    },
+    {
+      "id": "ssrn-record",
+      "kind": "primary bibliographic record",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646",
+      "status": "Direct public fetch returned403; identifier supplied by actual attachment filename; content grounded in attachment"
+    },
+    {
+      "id": "ssrn-doi",
+      "kind": "persistent research identifier",
+      "url": "https://doi.org/10.2139/ssrn.6097646",
+      "status": "SSRN DOI identifier; exact version remains pinned by attachment cover marker"
+    },
+    {
+      "id": "format-reference",
+      "kind": "maintainer companion format",
+      "url": "https://github.com/0xHayd3n/harness-learning-guide",
+      "access": "README, AGENTS, structure, metadata and validator inspected; not research evidence"
+    },
+    {
+      "id": "osf-v1",
+      "kind": "official author-deposited preprint",
+      "url": "https://osf.io/preprints/psyarxiv/yk25n_v1/",
+      "api_url": "https://api.osf.io/v2/preprints/yk25n/",
+      "verified_at": "2026-10-20",
+      "status": "API resolves yk25n_v1; matching title and authors; published2026-01-12, original publication2026-01-11; CC0-1.0 license relationship"
+    },
+    {
+      "id": "osf-pdf",
+      "kind": "auxiliary official public PDF",
+      "url": "https://osf.io/download/9gxaq/",
+      "version": "v20260111 cover",
+      "page_count": 58,
+      "status": "Downloaded, hash verified via API, all main tables/figures visually inspected; differs in size from attachment; binary equality not established"
+    },
+    {
+      "id": "osf-materials",
+      "kind": "authors linked materials/preregistration project",
+      "url": "https://osf.io/n84tx",
+      "status": "Linked by official OSF preprint; project and file-list API401 Unauthorized; contents not inspected"
+    },
+    {
+      "id": "crossref",
+      "kind": "official DOI metadata",
+      "url": "https://api.crossref.org/works/10.2139/ssrn.6097646",
+      "status": "Verified DOI,title,authors and2026 year; no exact SSRN posting date established"
+    }
+  ]
+}
